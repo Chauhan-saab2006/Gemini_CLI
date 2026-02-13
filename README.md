@@ -76,24 +76,6 @@ Once started:
 - Type your message and press Enter to chat with Gemini
 - Type `exit` to quit the application
 
-### Example Session
-
-```
-===================================================
-   ██████  ███████ ███    ███ ██ ███    ██ ██
-  ██       ██      ████  ████ ██ ████   ██ ██
-  ██   ███ █████   ██ ████ ██ ██ ██ ██  ██ ██
-  ██    ██ ██      ██  ██  ██ ██ ██  ██ ██ ██
-   ██████  ███████ ██      ██ ██ ██   ████ ██
-
-                GEMINI_CLI
-===================================================
-
-you: Hello! How are you?
-gemini: I'm doing well, thank you for asking! How can I help you today?
-
-you: exit
-```
 
 ## Project Structure
 
