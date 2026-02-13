@@ -20,7 +20,7 @@ print("   ██████  ███████ ██      ██ ██ �
 print("")
 print("                GEMINI_CLI")
 print("===================================================")
-h
+
 while True:
     user_input = input("you: ")
     if user_input.lower() == "exit":

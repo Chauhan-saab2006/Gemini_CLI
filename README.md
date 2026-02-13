@@ -4,9 +4,7 @@ A simple command-line interface for chatting with Google's Gemini AI using the G
 
 ## Screenshot
 
-![Gemini CLI Demo](screenshot.png)
-
-> **Note:** To add a screenshot, run the application and take a screenshot of your terminal, then save it as `screenshot.png` in the project directory.
+![Gemini CLI Demo](Screenshot%202026-02-13%20212710.png)
 
 ## Features
 
